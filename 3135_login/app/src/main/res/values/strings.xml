@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">3135_Login</string>
+    <string name="kepemilikan">Aditya Permana</string>
+    <string name="login">Login</string>
+    <string name="daftar">Daftar Jika Belum Punya Akun</string>
+    <string name="namakampus">Universitas AMIKOM Yogyakarta</string>
+</resources>
